@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação na FIAP** e gosto de transformar dados em respostas para problemas reais. Meus projetos se dão pela minha evolução em estudos acadêmicos e possoais. E dentro deles, atualmente destaco projetos reais utilizando **Machine Learning** (classificação, regressão e seleção de atributos), **análise de dados com Python e SQL**, automação de relatórios e **programação orientada a objetos em Java**.
+Sou estudante de **Ciência da Computação na FIAP** e gosto de transformar dados em respostas para problemas reais. Meus projetos se dão pela minha evolução em estudos acadêmicos e pessoais. E dentro deles, atualmente destaco projetos reais utilizando **Machine Learning** (classificação, regressão e seleção de atributos), **análise de dados com Python e SQL**, automação de relatórios e **programação orientada a objetos em Java**.
 
 - 🔭 Foco atual: Ciência de Dados, Machine Learning e Desenvolvimento de Software
 - 🌱 Aprendendo: modelos mais robustos, validação de modelos e boas práticas de engenharia de software
